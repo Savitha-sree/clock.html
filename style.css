@@ -1,0 +1,25 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body
+{
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    display:flex;
+    background-color: black;
+    font-size: xx-large;
+
+}
+#clock
+{
+    background-color:whitesmoke;
+    padding:30px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
